@@ -1,5 +1,1 @@
-print("우리나라")print("우리나라")
-print("우리나라")
-print("우리나라")
-print("우리나라")
 print("우리나라")
